@@ -2,6 +2,7 @@
 Repository for project looking at community best practice for visualisation of health data
 
 ## Examples of current visualisations and practices:
+Please update with examples you find.
 * [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/lightning-viz/lightning-example-notebooks/tree/master/) Generic visualisation using Jupyter notebooks
 * [Visualizing Health](http://www.vizhealth.org/wizard/) Wizard-based approach to selecting health visualisation for patients
 * [Data Visualizations | Institute for Health Metrics and Evaluation](http://www.healthdata.org/results/data-visualizations) IHME example visualisations of health data
